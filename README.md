@@ -1,4 +1,25 @@
-# Voici le résultat de l'exécution de Main.java : 
+# Voici le résultat de l'exécution de Main.java :
+ 
+  ## Les tables de la base de données :
+
+  ### person :
+  ![person](https://github.com/OuidadM/Mini_Projet_JPA/blob/f54c1bb88d93b5cccd1036eb5a0987c4419a9bf0/person.PNG)
+
+  ### prof : 
+![prof](https://github.com/OuidadM/Mini_Projet_JPA/blob/f54c1bb88d93b5cccd1036eb5a0987c4419a9bf0/prof.PNG)
+
+  ### student :
+![student](https://github.com/OuidadM/Mini_Projet_JPA/blob/f54c1bb88d93b5cccd1036eb5a0987c4419a9bf0/student.PNG)
+
+  ### address :
+  ![address](https://github.com/OuidadM/Mini_Projet_JPA/blob/f54c1bb88d93b5cccd1036eb5a0987c4419a9bf0/address.PNG)
+
+  ### module :
+  ![module](https://github.com/OuidadM/Mini_Projet_JPA/blob/f54c1bb88d93b5cccd1036eb5a0987c4419a9bf0/module.PNG)
+
+  ### inscription :
+![inscription](https://github.com/OuidadM/Mini_Projet_JPA/blob/f54c1bb88d93b5cccd1036eb5a0987c4419a9bf0/inscription.PNG)
+
 
 Liste des étudiants :
 - Mehdi Ali | Email: mehdi@gmail.com
